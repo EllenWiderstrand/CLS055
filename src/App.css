@@ -13,8 +13,17 @@
   width: 70vw;
 }
 
-.title{
-  font-size: 48px;
+.logo{
+  width: 200px;
+  padding: 40px 0 10px 0;
+}
+
+p{
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+a{
   color: #572617;
 }
 

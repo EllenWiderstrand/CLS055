@@ -1,10 +1,14 @@
 import './App.css';
+import logo from './KeepUp.png';
 
 function App() {
   return (
     <div className="App">
       <div className="content">
-        <h1 className="title">KeepUp</h1>
+        <img alt="Logo for KeepUp" className="logo" src={logo} />
+        <p>
+          By <a href="https://www.linkedin.com/in/kajsabjarang/" target="blank">Kajsa Bjäräng</a>, <a href="https://www.linkedin.com/in/viktoriaenderstein/" target="blank">Viktoria Enderstein</a> and <a href="https://www.linkedin.com/in/ellenwiderstrand/" target="blank">Ellen Widerstrand</a>
+        </p>
         <div className="video">
         <iframe src="https://www.youtube.com/embed/NpEaa2P7qZI" title="KeepUp" frameBorder="0" allow="accelerometer; autoplay;" allowFullScreen></iframe>
         </div>
