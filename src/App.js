@@ -1,5 +1,6 @@
 import './App.css';
 import logo from './KeepUp.png';
+import Process from './Process';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
           By <a href="https://www.linkedin.com/in/kajsabjarang/" target="blank">Kajsa Bjäräng</a>, <a href="https://www.linkedin.com/in/viktoriaenderstein/" target="blank">Viktoria Enderstein</a> and <a href="https://www.linkedin.com/in/ellenwiderstrand/" target="blank">Ellen Widerstrand</a>
         </p>
         <div className="video">
-        <iframe src="https://www.youtube.com/embed/NpEaa2P7qZI" title="KeepUp" frameBorder="0" allow="accelerometer; autoplay;" allowFullScreen></iframe>
+          <iframe src="https://www.youtube.com/embed/_WGUXtaoLok" title="KeepUp" frameBorder="0" allow="accelerometer; autoplay;" allowFullScreen></iframe>
         </div>
         <h2 className="heading">Background</h2>
         <p>There are millions of applications on the market but there are only a handful of them that millions of people around the world use on a daily basis [1, [2]. 
@@ -31,6 +32,7 @@ function App() {
         <h2 className="heading">The Design</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         <h2 className="heading">Design Process</h2>
+        <Process/>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         <h2 className="heading">Result</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
