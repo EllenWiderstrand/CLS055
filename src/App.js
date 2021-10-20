@@ -27,6 +27,7 @@ function App() {
           more notifications per day which might increase people's stress levels [2].  People do not often actively change or remove the default notifications which 
           constantly reminds users to check different platforms [3].  This has resulted in many people being addicted and KeepUp aims to keep social media fun and stop 
           it from being an addiction.</p>
+          
         <h2 className="heading">The Design</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         <h2 className="heading">Design Process</h2>
