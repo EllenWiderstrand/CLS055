@@ -18,6 +18,16 @@
   padding: 40px 0 10px 0;
 }
 
+.statistics1{
+  width: 23.5%;
+  padding: 5px 10px 5px 0;
+}
+
+.statistics2{
+  width: 50%;
+  padding: 5px 0 5px 10px;
+}
+
 p{
   margin: 0;
   padding-bottom: 20px;

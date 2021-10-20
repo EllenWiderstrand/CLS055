@@ -1,5 +1,7 @@
 import './App.css';
 import logo from './KeepUp.png';
+import statistics1 from './stats.png';
+import statistics2 from './stats2.png';
 import Process from './Process';
 
 function App() {
@@ -21,7 +23,10 @@ function App() {
           Instead of having to check several different applications that notify you at different times and in different ways, KeepUp lets you view all content in one place. 
           All recent updates are gathered in one place which lets you keep up with all your favourite accounts, no matter which platform they are from. There is, therefore, 
           no need to jump between platforms to get all updates, KeepUp will do it for you. </p>
-
+        
+        <img alt="Application statistics1" className="statistics1" src={statistics1} />
+        <img alt="Application statistics2" className="statistics2" src={statistics2} />
+         
         <p>The application consists of a dashboard that the user can customize by choosing what social media to connect to the platform. KeepUp has two major perks compared 
           to other social media applications. One of them is that it collects all content in one application which limits the number of applications that will be used. 
           The other is that it aims to not be as addictive as other applications often are. People statically check their phones at least 52 times per day and receive even 
