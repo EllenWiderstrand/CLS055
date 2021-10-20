@@ -1,3 +1,16 @@
 .vertical-timeline::before {
     background: #572617 !important;
 }
+
+.vertical-timeline.vertical-timeline--two-columns{
+    width: 100% !important;
+}
+
+.processImg{
+    width: 100%;
+    padding-top: 10px;
+}
+
+.process{
+    margin-bottom: 20px;
+}
