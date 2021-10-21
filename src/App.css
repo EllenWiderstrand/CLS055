@@ -39,9 +39,30 @@
   width: 100%;
 }
 
+.twoCols{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  align-items: center;
+}
+
+.alignCenter{
+  display: grid;
+  justify-items: center;
+  row-gap: 5px;
+}
+
 .settingsImg{
-  width: 26%;
-  padding: 0 37%;
+  width: 50%;
+}
+
+.likesImg{
+  width: 70%;
+  padding: 0 15%;
+}
+
+.computer{
+  width: 80%;
+  padding: 0 10%;
 }
 
 .design{
