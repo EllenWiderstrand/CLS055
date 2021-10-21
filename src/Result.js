@@ -26,7 +26,8 @@ function Result () {
                 instead of forcing the user to actively remove the notifications. With this feature the goal is to reduce some of the stress created by social media, see figure 4.2
             </p>
       
-            <img alt="Application statistics1" className="statistics1" src={settings} />
+            <img alt="Settings in KeepUp." className="settingsImg" src={settings} />
+            <p className="figureText">Figure 4.2: Settings for an acount in KeepUp.</p>
 
             <p>
                 Social media and the addictive features of likes have been removed with KeepUp. Again per default the user only sees that people like different posts but could never 
