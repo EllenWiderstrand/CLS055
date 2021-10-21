@@ -30,8 +30,10 @@ function App() {
           All recent updates are gathered in one place which lets you keep up with all your favourite accounts, no matter which platform they are from. There is, therefore, 
           no need to jump between platforms to get all updates, KeepUp will do it for you. </p>
         
-        <img alt="Application statistics1" className="statistics1" src={statistics1} />
-        <img alt="Application statistics2" className="statistics2" src={statistics2} />
+        <div className="statisticsWrapper">
+          <img alt="Application statistics1" className="statisticsImg" src={statistics1} />
+          <img alt="Application statistics2" className="statisticsImg" src={statistics2} />
+        </div>
          
         <p>The application consists of a dashboard that the user can customize by choosing what social media to connect to the platform. KeepUp has two major perks compared 
           to other social media applications. One of them is that it collects all content in one application which limits the number of applications that will be used. 
@@ -53,7 +55,8 @@ function App() {
         of letting the user take control and gather all social media.  
         </p>
 
-        <img alt="Application statistics1" className="result" src={application} />
+        <img alt="Logos for different social media." className="icons" src={application} />
+        <p className="figureText">Figure 4.1: Social media applications used by the interviewees.</p>
 
         <p>
         The purpose of KeepUp is also to try to reduce stress and addiction to social media. KeepUp includes features such as per default the setting is that the user 

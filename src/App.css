@@ -18,14 +18,21 @@
   padding: 40px 0 10px 0;
 }
 
+.statisticsWrapper{
+  width: 90%;
+  display: grid;
+  grid-template-columns: 1fr 2.12fr;
+  grid-column-gap: 10px;
+  margin: 10px 5% 30px;
+}
+
 .statistics1{
   width: 23.5%;
   padding: 5px 10px 5px 0;
 }
 
-.statistics2{
-  width: 50%;
-  padding: 5px 0 5px 10px;
+.statisticsImg{
+  width: 100%;
 }
 
 .design{
@@ -38,6 +45,16 @@
   margin: 0 auto;
   width: 50%;
   position: center;
+}
+
+.icons{
+  width: 70%;
+  padding: 0 15% 5px;
+}
+
+.figureText{
+  text-align: center;
+  font-size: 14px;
 }
 
 
