@@ -18,6 +18,7 @@ function Background() {
           <img alt="Application statistics1" className="statisticsImg" src={statistics1} />
           <img alt="Application statistics2" className="statisticsImg" src={statistics2} />
         </div>
+        <p className="figureText">Figure 1: Statistics from <i>Mobile App Download Statistics & Usage Statistics</i> [1]</p>
          
         <p>The application consists of a dashboard that the user can customize by choosing what social media to connect to the platform. KeepUp has two major perks compared 
           to other social media applications. One of them is that it collects all content in one application which limits the number of applications that will be used. 
