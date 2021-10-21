@@ -1,5 +1,5 @@
 import './App.css';
-import logo from './KeepUp.png';
+import logo from './images/KeepUp.png';
 import Process from './Process';
 import Background from './Background';
 import Result from './Result';

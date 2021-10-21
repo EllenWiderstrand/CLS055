@@ -1,6 +1,6 @@
 import './App.css';
-import statistics1 from './stats.png';
-import statistics2 from './stats2.png';
+import statistics1 from './images/stats.png';
+import statistics2 from './images/stats2.png';
 
 function Background() {
   return (

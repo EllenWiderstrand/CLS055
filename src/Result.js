@@ -1,9 +1,9 @@
 import './App.css';
-import application from './applications.png';
-import settings from './settings.png';
-import feedStart from './feedstart.png';
-import feedEnd from './feedEnd.png';
-import feedOld from './feedOld.png';
+import application from './images/applications.png';
+import settings from './images/settings.png';
+import feedStart from './images/feedstart.png';
+import feedEnd from './images/feedEnd.png';
+import feedOld from './images/feedOld.png';
 
 function Result () {
     return(

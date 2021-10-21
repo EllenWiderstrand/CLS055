@@ -1,5 +1,5 @@
 import './App.css';
-import design from './theDesign.png';
+import design from './images/theDesign.png';
 
 function Design() {
   return (

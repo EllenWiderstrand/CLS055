@@ -1,5 +1,5 @@
 import './Process.css';
-import { ReactComponent as Icon } from "./footsteps.svg"
+import { ReactComponent as Icon } from "./images/footsteps.svg"
 import "react-vertical-timeline-component/style.min.css"
 import {
     VerticalTimeline,
@@ -105,7 +105,7 @@ import eval2 from './images/eval2.png';
         },
         {
           image: eval2,
-          id: 2,
+          id: 3,
         },
       ]
     },
