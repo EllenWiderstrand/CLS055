@@ -53,14 +53,14 @@ function App() {
         of letting the user take control and gather all social media.  
         </p>
 
-        <img alt="Application statistics1" className="statistics1" src={application} />
+        <img alt="Application statistics1" className="result" src={application} />
 
         <p>
         The purpose of KeepUp is also to try to reduce stress and addiction to social media. KeepUp includes features such as per default the setting is that the user 
         will not get any notification when anything new has been added or uploaded. KeepUp lets the user actively decide whether or not he or she wants to get notifications
         instead of forcing the user to actively remove the notifications. With this feature the goal is to reduce some of the stress created by social media, see figure 4.2
         </p>
-        
+      
         <img alt="Application statistics1" className="statistics1" src={settings} />
 
         <p>
@@ -71,7 +71,7 @@ function App() {
         the old posts in the feed, see figure 4.5. Keep Up therefore gives the user immediately information about how many posts exactly the user has missed but also gives 
         the user closure with a clear and distinct end of the feed.
         </p>
-
+          
         <img alt="Application statistics1" className="statistics1" src={feedStart} />
         <img alt="Application statistics1" className="statistics1" src={feedEnd} />
         <img alt="Application statistics1" className="statistics1" src={feedOld} />

@@ -34,6 +34,13 @@
   position:relative;
 }
 
+.result{
+  margin: 0 auto;
+  width: 50%;
+  position: center;
+}
+
+
 p{
   margin: 0;
   padding-bottom: 20px;
