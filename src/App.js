@@ -1,10 +1,10 @@
 import './App.css';
 import logo from './KeepUp.png';
-import design from './theDesign.png';
 import Process from './Process';
 import Background from './Background';
 import Result from './Result';
 import Design from './Design';
+import Resources from './Resources';
 
 function App() {
   return (
@@ -21,6 +21,7 @@ function App() {
         <Design />
         <Process/>
         <Result />
+        <Resources />
       </div>
     </div>
   );
