@@ -114,6 +114,7 @@ import eval2 from './images/eval2.png';
 function Process() {
   return (
     <div className="process">
+      <h2 className="heading">Design Process</h2>
       <VerticalTimeline>
         {timelineElements.map(element => {
           return (
