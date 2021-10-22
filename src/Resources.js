@@ -14,10 +14,10 @@ function Resources() {
       <p>  
       [4] G, Collins. “Why the infinite scroll is so addictive”,<i> UX Collective</i>. Dec. 10, 2020. [Online]. Available: <a href="https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5" target="blank"> https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5 </a></p>
       <p>
-      [5] K. Cherry, “Can Color Affect Your Mood and Behavior?”, Verywell Mind, May. 2020. Accessed on: Oct. 21. 2021. [Online]. Available: <a href="https://www.verywellmind.com/color-psychology-2795824" target="blank"> https://www.verywellmind.com/color-psychology-2795824 </a> 
+      [5] K. Cherry, <i>Can Color Affect Your Mood and Behavior?</i>, Verywell Mind, May. 2020. Accessed on: Oct. 21. 2021. [Online]. Available: <a href="https://www.verywellmind.com/color-psychology-2795824" target="blank"> https://www.verywellmind.com/color-psychology-2795824 </a> 
       </p>
       <p>
-      [6] Flux, “Accessible Web Design: What Is It & How To Do It,” YouTube, Nov. 4, 2019. [Video]. Available: <a href="https://www.youtube.com/watch?v=-ao_Kc_8rpE" target="blank"> https://www.youtube.com/watch?v=-ao_Kc_8rpE </a> 
+      [6] Flux, “Accessible Web Design: What Is It & How To Do It,” <i>YouTube</i>, Nov. 4, 2019. [Video]. Available: <a href="https://www.youtube.com/watch?v=-ao_Kc_8rpE" target="blank"> https://www.youtube.com/watch?v=-ao_Kc_8rpE </a> 
       </p>
     </div>
   );
