@@ -6,7 +6,7 @@ function Background() {
   return (
     <div className="wrapper">
         <h2 className="heading">Background</h2>
-        <p>There are millions of applications on the market but there are only a handful of them that millions of people around the world use on a daily basis [1], [2]. 
+        <p>There are millions of applications on the market but there is only a handful of them that millions of people around the world use on a daily basis [1], [2]. 
           The companies that have created those applications are huge and keep growing at a rapid speed which makes it very difficult for new applications to trend.  
           Something that has the potential to become successful and popular, however, is applications that support the already widely used applications [1]. 
           KeepUp is a new platform that has the potential to become the next big thing that people use to keep track of their social media. 
