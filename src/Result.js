@@ -13,10 +13,10 @@ function Result () {
             <h2 className="heading">Result</h2>
             <p>
                 KeepUp's main purpose is to let users take control over their social media usage and collect all content in one platform and, 
-                thereby, reduce stress and addiction to social media. The interviews that were held regarding peoples use of social media, 
-                showed that all interviewees use the same applications daily. Figure 4.1 shows which social media they use. These statistics 
-                correlate quite well with the statistics stated in “Mobile App Download Statistics and Usage Statistics“ [2]. KeepUp, therefore,
-                 gives the user the possibility to decide which social media to include which makes it tailored for the users. Thereby, KeepUp 
+                thereby, reduce stress and addiction to social media. The interviews that were held regarding people's use of social media, 
+                showed that all interviewees use almost the same applications daily. Figure 4.1 shows which social media they use. These applications
+                are also mentioned to be commonly used by "Mobile App Download Statistics & Usage Statistics" [2]. KeepUp, therefore,
+                 gives the user the possibility to decide what social media to include which makes it tailored for the users. Thereby, KeepUp 
                  hopefully achieves the main core of the purpose by letting the user take control and gather all social media on one website.
             </p>
 
@@ -26,10 +26,10 @@ function Result () {
             <p>
                 The purpose of KeepUp is also to reduce stress and addiction to social media. The settings have, therefore, been configured 
                 in a way to cause the user as little stress as possible. One such setting is notifications, where the default setting is to 
-                have them turned off since they can be stressful [2]. By forcing the user to actively turn them on if they want notifications, they are less likely to have 
+                have them turned off since they can be stressful [2]. By forcing the user to actively turn on notifications if they want them, they are less likely to have 
                 them on. Another common feature on social media is to show the number of likes a post gets. Likes are known to be stressful, especially for younger people, 
                 and the stress has even been linked to increased anxiety and depression for some people [4]. In KeepUp, the default settings 
-                for likes is, therefore, to not show the number. The user can still see that people have liked or reacted to the post but can not see 
+                for likes is, therefore, to not show the number. The user can still see that people have liked or reacted to a post but can not see 
                 how many likes/reactions the post has got. Both of these settings can be seen in Figure 4.2 and a post where the number of 
                 likes is hidden can be seen in Figure 4.3.
             </p>
@@ -50,7 +50,7 @@ function Result () {
                 infinite scrolling since it can be very addictive [5]. When a user opens KeepUp, it is clearly stated how many new 
                 updates there are, as shown in Figure 4.4. When the user has scrolled through all new posts, the feed ends and the 
                 user is faced with a button that has to be actively clicked on to show previously viewed posts. The button can be 
-                seen in Figure 4.5. With KeepUp, it is, therefore, less likely that the user keeps scrolling past the new posts as 
+                seen in Figure 4.5. The button is shown again for every tenth post to prevent the user from continuing to scroll. With KeepUp, it is, therefore, less likely that the user keeps scrolling past the new posts as 
                 it gives the user closure with a clear and distinct end of the feed.
             </p>
 
@@ -58,7 +58,7 @@ function Result () {
             <p className="figureText">Figure 4.4: The number of new updates in the feed.</p>
 
             <img alt="Button for showing more posts" className="computer" src={morePosts} />
-            <p className="figureText">Figure 4.5: The end of the feed for new posts with containing a button to show more posts.</p>
+            <p className="figureText">Figure 4.5: The end of the feed for new posts with a button to show more posts.</p>
 
             <p>
                 Colours can create different feelings and it was, therefore, important to find colours that did not feel stressful, 

@@ -27,7 +27,7 @@
   display: grid;
   grid-template-columns: 1fr 2.12fr;
   grid-column-gap: 10px;
-  margin: 10px 5% 30px;
+  margin: 10px 5% 5px;
 }
 
 .statistics1{
