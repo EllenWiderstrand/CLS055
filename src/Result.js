@@ -62,12 +62,12 @@ function Result () {
 
             <p>
                 Colours can create different feelings and it was, therefore, important to find colours that did not feel stressful, 
-                but rather gave a calming impression for the users. The final colour scheme used for KeepUp is a result of three different 
+                but rather gave a calming impression for the users [5]. The final colour scheme used for KeepUp is a result of three different 
                 palettes, as seen in Figure 4.6, that was scaled down to two which finally resulted in one after feedback had been 
                 received. One person said that the chosen colours gave a calming and relaxing feeling and they were appreciated by 
                 everyone who gave feedback. The chosen palette was slightly altered to create a higher contrast between the colours and 
                 the result is seen in Figure 4.7. It is important that KeepUp is as accessible as possible so that as many people as 
-                possible can use it and one way of making it more accessible was to use high contrast between text and background.  
+                possible can use it and one way of making it more accessible was to use high contrast between text and background [6].  
             </p>
 
             <div className="twoCols">
