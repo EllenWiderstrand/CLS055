@@ -11,11 +11,11 @@ import storyboard from './images/storyboard.png';
 import colourScheme from './images/colourScheme.png';
 import bloglovin from './images/bloglovin.png';
 import wireframe2 from './images/wireframe2.png';
-import wireframe3 from './images/wireframe3.png';
 import wireflow from './images/wireflow.png';
 import responsive from './images/responsive.png';
 import eval1 from './images/eval1.png';
 import eval2 from './images/eval2.png';
+import prototyping from './images/prototyping.png';
 
   let timelineElements = [
     {
@@ -40,8 +40,7 @@ import eval2 from './images/eval2.png';
       id: 2,
       title: "Ideation",
       description: [
-        "3 directions (2 webites, 1 app)",
-        "Moodboards",
+        "3 directions (2 websites, 1 app)",
         "Wireframes",
         "Journey map",
         "Colour schemes",
@@ -55,10 +54,6 @@ import eval2 from './images/eval2.png';
           image: wireframe2,
           id: 2,
         },
-        {
-          image: wireframe3,
-          id: 3,
-        },
       ]
     },
     {
@@ -67,10 +62,10 @@ import eval2 from './images/eval2.png';
       description: [
         "3 directions → 2 directions",
         "Focus on website because it is more accessible (can be viewed on both computers and smartphones)",
+        "Storyboard",
         "Wireframes",
         "Wireflow",
         "Responsive design",
-        "Storyboard",
       ],
       images: [
         {
@@ -91,8 +86,8 @@ import eval2 from './images/eval2.png';
       id: 4,
       title: "Evaluation",
       description: [
-        "2 interviews with wireframes",
         "Questionnaire for colour scheme",
+        "2 interviews with wireframes",
       ],
       images: [
         {
@@ -106,6 +101,20 @@ import eval2 from './images/eval2.png';
         {
           image: eval2,
           id: 3,
+        },
+      ]
+    },
+    {
+      id: 5,
+      title: "Prototyping",
+      description: [
+        "Wireframing",
+        "Finalising the colour scheme",
+      ],
+      images: [
+        {
+          image: prototyping,
+          id: 1,
         },
       ]
     },
